@@ -7,7 +7,6 @@ import java.util.Objects;
 public class Seller implements Serializable {
 
     private static final long serialVersionUID = -8508549821708497368L;
-
     private Integer id;
     private String name;
     private String email;
